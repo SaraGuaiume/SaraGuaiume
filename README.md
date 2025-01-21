@@ -1,7 +1,7 @@
 ## Olá, sou a Sara 👋
 
 ### Sobre minha vida profissional: 
-- Atual professora de python da Fundação Educere
+- Estagiária na Fundação Educere
 - Desenvolvedora de um sistema de controle de patrimônio
   
 ### Escolaridade:

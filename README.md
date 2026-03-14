@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f2299&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Matheus Maia Alvarez</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f2299&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h3 align="center">Full Stack Developer in training</h3>
 
 <p align="center">

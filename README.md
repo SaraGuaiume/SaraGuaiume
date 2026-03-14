@@ -20,7 +20,8 @@
  
 ### Main Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-Css-0D1117?style=for-the-badge&logo=css)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)

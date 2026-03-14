@@ -35,7 +35,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
+![Handlebars](https://img.shields.io/badge/-Handlebars-0D1117?style=for-the-badge&logo=handlebarsdotjs&labelColor=0D1117)&nbsp;
+![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&labelColor=0D1117)&nbsp;
+
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;

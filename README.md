@@ -8,11 +8,27 @@
 
 # 👨‍💻 About Me
 
-💻 Computer Engineering Student passionate about technology and innovation  
-🚀 Focused on building modern, efficient and scalable solutions  
-🧠 Interested in Web Development, Backend and Software Engineering  
-🌱 Always learning and improving my skills  
+<br/>
 
+<p align="center">
+
+  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20PORTFÓLIO-00FF00?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,cpp,postgres,mysql&theme=dark" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2"/>
+</p>
 <p align="center">
   <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-00FF00?style=for-the-badge&logo=vercel&logoColor=black"/>

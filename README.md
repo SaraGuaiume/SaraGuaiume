@@ -18,25 +18,8 @@
 
 <p align="center">
   <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20ACESSAR%20PROJETO-00FF00?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Status-ONLINE-00FF00?style=flat-square"/>
     <img src="https://img.shields.io/badge/Deploy-Vercel-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Type-Full%20Stack-00FF00?style=flat-square"/>
-  </a>
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Status-ONLINE-00FF00?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Deploy-Vercel-00FF00?style=flat-square&logo=vercel&logoColor=black"/>
     <img src="https://img.shields.io/badge/Type-Full%20Stack-00FF00?style=flat-square"/>
   </a>
 </p>

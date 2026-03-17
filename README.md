@@ -9,17 +9,26 @@
 # 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,cpp,postgres,mysql&theme=dark" />
+  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=PORTFÓLIO&fontSize=50&fontColor=000000&animation=fadeIn"/>
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2"/>
+  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20ACESSAR%20AGORA-00FF00?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
 </p>
+
+<br/>
+
 <p align="center">
   <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-00FF00?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Status-ONLINE-00FF00?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Deploy-Vercel-00FF00?style=flat-square&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Type-Full%20Stack-00FF00?style=flat-square"/>
   </a>
 </p>
 

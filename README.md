@@ -13,6 +13,12 @@
 🧠 Interested in Web Development, Backend and Software Engineering  
 🌱 Always learning and improving my skills  
 
+<p align="center">
+  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-00FF00?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+</p>
+
 <br/>
 
 <div align="center">  

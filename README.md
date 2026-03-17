@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Sara+Guaiume+Cipriano;Computer+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Sara+Guaiume+Cipriano;Computer+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <br/>
 
@@ -16,18 +16,18 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SaraGuaiume&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Sara Guaiume Cipriano github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGuaiume&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SaraGuaiume&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Sara Guaiume Cipriano github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGuaiume&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaraGuaiume&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaraGuaiume&bg_color=000000&color=ffd500&line=ffd500&point=ffd500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaraGuaiume&theme=matrix&row=1&column=3&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaraGuaiume&theme=radical&row=1&column=3&no-bg=true" />
 </p>
 
 <br/>
@@ -77,11 +77,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/sara-guaiume-cipriano-4407033b7/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Portfolio-00FF00?style=for-the-badge&logo=vercel&logoColor=black">
+<img src="https://img.shields.io/badge/-Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black">
 </a>
 
 <br/><br/>

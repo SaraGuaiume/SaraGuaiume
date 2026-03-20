@@ -6,7 +6,7 @@
 
 <br/>
 
-# 👨‍💻 About Me
+### About Me
 
 <p align="center">
   <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">

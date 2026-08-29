@@ -1,96 +1,156 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-<br/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Sara+Guaiume+Cipriano;Computer+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Sara+Guaiume+Cipriano;Computer+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br/>
+<br>
 
-### About Me
+## About Me
 
 <p align="center">
-  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
-<br/>
+<br>
 
 <p align="center">
-  <a href="https://portfolio-blue-seven-dhdicfxbod.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Status-ONLINE-7C3AED?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Deploy-Vercel-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Type-Full%20Stack-7C3AED?style=flat-square"/>
-  </a>
+
+  <img src="https://img.shields.io/badge/Status-ONLINE-7C3AED?style=flat-square">
+
+  <img src="https://img.shields.io/badge/Deploy-Vercel-7C3AED?style=flat-square&logo=vercel&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Type-Full%20Stack-7C3AED?style=flat-square">
+
 </p>
 
-<br/>
+<br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SaraGuaiume&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Sara Guaiume Cipriano github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGuaiume&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=SaraGuaiume&show_icons=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117"
+  />
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGuaiume&layout=compact&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117"
+  />
+
 </div>
 
-<br/>
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaraGuaiume&bg_color=000000&color=ffd500&line=ffd500&point=ffd500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📈 Activity
 
-<br/>
+<div align="center">
+
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaraGuaiume&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true"
+  />
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaraGuaiume&theme=radical&row=1&column=3&no-bg=true" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=SaraGuaiume&theme=radical&row=1&column=3&no-bg=true"
+  />
 </p>
 
-<br/>
+<br>
 
-### Main Skills
+## 💻 Main Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-Css-0D1117?style=for-the-badge&logo=css)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
+<p align="center">
 
-<br/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-### Tools
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
 
-![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
 
-<br/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933">
 
-### Other Knowledge
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-Handlebars-0D1117?style=for-the-badge&logo=handlebarsdotjs&labelColor=0D1117)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&labelColor=0D1117)&nbsp;
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
 
-<br/>
+</p>
 
-### Studying in this moment
+<br>
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+## 🛠️ Tools
 
-<br/>
+<p align="center">
 
-### Connect with me
+  <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
 
-<a href="https://www.instagram.com/sara.guaiume/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+  <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=5C2D91">
 
-<a href="https://www.linkedin.com/in/sara-guaiume-cipriano-4407033b7/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
 
-<br/><br/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+</p>
+
+<br>
+
+## 🗄️ Other Knowledge
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1">
+
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E">
+
+  <img src="https://img.shields.io/badge/Handlebars-0D1117?style=for-the-badge&logo=handlebarsdotjs&logoColor=F0772B">
+
+  <img src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=FFFFFF">
+
+</p>
+
+<br>
+
+## 📚 Studying
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933">
+
+  <img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+</p>
+
+<br>
+
+## 🌐 Connect with me
+
+<p align="center">
+
+  <a href="https://www.instagram.com/sara.guaiume/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  </a>
+
+  <a href="https://www.linkedin.com/in/sara-guaiume-cipriano-4407033b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
+
+</p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
